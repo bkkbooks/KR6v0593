@@ -1,0 +1,898 @@
+canonical_identifier: bkk:krp/KR6v0593/Y/v1
+canonical_location: https://kanripo.org/bkk/KR6v0593/Y/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 以佛法研究佛法
+  identifiers:
+    krp: KR6v0593
+    cbeta: Y16n0016
+    cbeta_old_id: Y16n0016
+    authorityid: CA0008335
+    json_key: Y0016
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y16/Y16n0016.xml
+    old_id: Y16n0016
+  edition:
+    short: 'Y'
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0593_001-Y.yaml, hash: 'sha256:c75fd5e7987c2c5668c7ae1aa162bc2679fe6db68aec2e0d427c12c52b892fb4'}
+  - {seq: 2, filename: KR6v0593_002-Y.yaml, hash: 'sha256:4e68917062cebe7153275cd3196c23e29f15385c246924ba222512a808107644'}
+  - {seq: 3, filename: KR6v0593_003-Y.yaml, hash: 'sha256:8f2fb7f6ef0178b73b730854a45c45ed0db52e973a33659c8f70e4c1767c6e03'}
+  - {seq: 4, filename: KR6v0593_004-Y.yaml, hash: 'sha256:d3cc45d82cc61ef97374d7e570c9a1573ff6c5eba52d1e8c3bf834234a6fa346'}
+  - {seq: 5, filename: KR6v0593_005-Y.yaml, hash: 'sha256:ce954851bcff884e4b2e166cde9e05e4863d8f457d74940bfbd4aa788d21a4b6'}
+  - {seq: 6, filename: KR6v0593_006-Y.yaml, hash: 'sha256:955bf2d6a68f7a62e2366e20462b1d8914967a05daf4d9ea432954d9fde28013'}
+  - {seq: 7, filename: KR6v0593_007-Y.yaml, hash: 'sha256:2bb24bd7657bffe703eb195c4e4ea9c680b609a8da4fe3c4e3102b7a9824b34a'}
+  - {seq: 8, filename: KR6v0593_008-Y.yaml, hash: 'sha256:d4088d8f7da29c438b024febf87c30dd7fa37ba930090acd38eeccfa4b982e53'}
+  - {seq: 9, filename: KR6v0593_009-Y.yaml, hash: 'sha256:6b0f895b9cee3354c8b566de5e88bb4e6029c6c2c516cec310c49e75fa7f4d7e'}
+  - {seq: 10, filename: KR6v0593_010-Y.yaml, hash: 'sha256:487530375778603537483a7d57a66d4984adcc672d8ff03a37d35da9e3d30bff'}
+  - {seq: 11, filename: KR6v0593_011-Y.yaml, hash: 'sha256:4f0c45c1acdc947cc9298b6583acb11381461f54b4a5927b3d860f4a93d0d502'}
+  - {seq: 12, filename: KR6v0593_012-Y.yaml, hash: 'sha256:cd48869050fb99e79031f936519de5cb8ec220399d64eaf6f9da50b5d3e050b9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0593_001-Y.markers.yaml, hash: 'sha256:fd99a1fba5e2c2a2d3ba720bb8ce9100dbeac199c9d5887a6d9cac93be64fbbc'}
+  - {seq: 2, role: markers, filename: assets/KR6v0593_002-Y.markers.yaml, hash: 'sha256:04fc61b2729fddf3ef3f463644944733ded148fb7f9efb6fd4773d17d2f07797'}
+  - {seq: 3, role: markers, filename: assets/KR6v0593_003-Y.markers.yaml, hash: 'sha256:87b079a2e9dd9c60d65c7f6cfb99f8c1300c68b9c42441220aeba4da9cb7cab8'}
+  - {seq: 4, role: markers, filename: assets/KR6v0593_004-Y.markers.yaml, hash: 'sha256:e73625c30d863536e630526d39c32bc52b8e0dff8ba70da3d5f126d32f7cf422'}
+  - {seq: 5, role: markers, filename: assets/KR6v0593_005-Y.markers.yaml, hash: 'sha256:56cfece0b4390b94292aba072a3f2ae6ed978772855156bf33982b3a078a98bd'}
+  - {seq: 6, role: markers, filename: assets/KR6v0593_006-Y.markers.yaml, hash: 'sha256:b46b5600406f9840b06f9d94e71b04ee96add2219e55744c88bdedb04a1910a3'}
+  - {seq: 7, role: markers, filename: assets/KR6v0593_007-Y.markers.yaml, hash: 'sha256:1eb8f4a18ff79f04a41453629368a4684f5f5d4ec78da4b2552b76d59464cf63'}
+  - {seq: 8, role: markers, filename: assets/KR6v0593_008-Y.markers.yaml, hash: 'sha256:6293b70afb3e34a0afe24611b9c4437ca4fddba888e610ba20b7cd2a8a6ce135'}
+  - {seq: 9, role: markers, filename: assets/KR6v0593_009-Y.markers.yaml, hash: 'sha256:2248f96a72872bf7cb7e1c3f5612e0be968f3da538d2e51d6a2dba7b59cb0b6a'}
+  - {seq: 10, role: markers, filename: assets/KR6v0593_010-Y.markers.yaml, hash: 'sha256:9a87b0c8dc4538a77660560ed79aad3cb213f487380b466e3cd5a82b914024e8'}
+  - {seq: 11, role: markers, filename: assets/KR6v0593_011-Y.markers.yaml, hash: 'sha256:6789fda46f9c91de7bc9777b9348df04e9eccfd86c93cb6eede7fd9534c81032'}
+  - {seq: 12, role: markers, filename: assets/KR6v0593_012-Y.markers.yaml, hash: 'sha256:6cd4bcbbaa9d63e0a576560593779306e68118de60ae9c5df83807025012ff98'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0593_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 4813
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0593_Y_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一、以佛法研究佛法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0593_Y_002-juan-start
+    span:
+    - body
+    - 0
+    - 31340
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0593_Y_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 二、佛教之興起與東方印度
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0593_Y_002-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 一　東方與西方
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0593_Y_002-mulu-3
+    span:
+    - body
+    - 511
+    - 511
+  label: 二　婆羅門眼中的東方
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0593_Y_002-mulu-4
+    span:
+    - body
+    - 1920
+    - 1920
+  label: 三　瞻波中心的古印度
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0593_Y_002-mulu-5
+    span:
+    - body
+    - 6697
+    - 6697
+  label: 四　東方王族的興衰
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0593_Y_002-mulu-6
+    span:
+    - body
+    - 9516
+    - 9516
+  label: 五　奧義書與東方王朝
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0593_Y_002-mulu-7
+    span:
+    - body
+    - 12702
+    - 12702
+  label: 六　釋迦族來自東方
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0593_Y_002-mulu-8
+    span:
+    - body
+    - 16057
+    - 16057
+  label: 七　釋尊時代的印度國族
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0593_Y_002-mulu-9
+    span:
+    - body
+    - 20170
+    - 20170
+  label: 八　東方新宗教的勃興
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0593_Y_002-mulu-10
+    span:
+    - body
+    - 24908
+    - 24908
+  label: 九　釋迦的真諦
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0593_Y_002-mulu-11
+    span:
+    - body
+    - 30762
+    - 30762
+  label: 十　結論
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0593_Y_003-juan-start
+    span:
+    - body
+    - 0
+    - 8711
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0593_Y_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 三、「法」之研究
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0593_Y_003-mulu-2
+    span:
+    - body
+    - 4
+    - 4
+  label: 一　序起
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0593_Y_003-mulu-3
+    span:
+    - body
+    - 677
+    - 677
+  label: 二　聖道現見的正法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0593_Y_003-mulu-4
+    span:
+    - body
+    - 3632
+    - 3632
+  label: 三　法與義、法與律的對立
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0593_Y_003-mulu-5
+    span:
+    - body
+    - 4957
+    - 4957
+  label: 四　傳承中的無比法與妙法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0593_Y_003-mulu-6
+    span:
+    - body
+    - 6771
+    - 6771
+  label: 五　法輪與轉法輪
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0593_Y_003-mulu-7
+    span:
+    - body
+    - 8030
+    - 8030
+  label: 六　意識所識的法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0593_Y_004-juan-start
+    span:
+    - body
+    - 0
+    - 7650
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0593_Y_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 四、密教之興與佛教之滅——《印度之佛教》第十七章
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0593_Y_004-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 一　祕密思想之濫觴
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0593_Y_004-mulu-3
+    span:
+    - body
+    - 1707
+    - 1707
+  label: 二　祕密教之傳布
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0593_Y_004-mulu-4
+    span:
+    - body
+    - 5249
+    - 5249
+  label: 三　祕密教之特色
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0593_Y_004-mulu-5
+    span:
+    - body
+    - 7222
+    - 7222
+  label: 四　印度佛教之衰亡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0593_Y_005-juan-start
+    span:
+    - body
+    - 0
+    - 18085
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0593_Y_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 五、大乘是佛說論
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0593_Y_005-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 一　序起
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0593_Y_005-mulu-3
+    span:
+    - body
+    - 624
+    - 624
+  label: 二　從佛法的表現上說
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0593_Y_005-mulu-4
+    span:
+    - body
+    - 3919
+    - 3919
+  label: 三　從佛法的流行上說
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0593_Y_005-mulu-5
+    span:
+    - body
+    - 8326
+    - 8326
+  label: 四　從學派的分裂看大乘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0593_Y_005-mulu-6
+    span:
+    - body
+    - 9623
+    - 9623
+  label: 五　從經論的集出看大乘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0593_Y_005-mulu-7
+    span:
+    - body
+    - 13631
+    - 13631
+  label: 六　從思潮的遞代看大乘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0593_Y_005-mulu-8
+    span:
+    - body
+    - 15984
+    - 15984
+  label: 七　從大乘的內容看大乘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0593_Y_005-mulu-9
+    span:
+    - body
+    - 17421
+    - 17421
+  label: 八　什麼是初期的大乘經
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0593_Y_006-juan-start
+    span:
+    - body
+    - 0
+    - 4546
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0593_Y_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 六、略說罽賓區的瑜伽師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0593_Y_006-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 一　瑜伽師與罽賓
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0593_Y_006-mulu-3
+    span:
+    - body
+    - 549
+    - 549
+  label: 二　阿毘達磨師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0593_Y_006-mulu-4
+    span:
+    - body
+    - 982
+    - 982
+  label: 三　經部譬喻師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0593_Y_006-mulu-5
+    span:
+    - body
+    - 1462
+    - 1462
+  label: 四　大乘中觀師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0593_Y_006-mulu-6
+    span:
+    - body
+    - 1805
+    - 1805
+  label: 五　瑜伽師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0593_Y_006-mulu-7
+    span:
+    - body
+    - 2236
+    - 2236
+  label: 六　大乘瑜伽師
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0593_Y_006-mulu-8
+    span:
+    - body
+    - 4188
+    - 4188
+  label: 七　祕密瑜伽師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0593_Y_007-juan-start
+    span:
+    - body
+    - 0
+    - 15138
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0593_Y_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 七、中國佛教與印度佛教之關係
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0593_Y_007-mulu-2
+    span:
+    - body
+    - 363
+    - 363
+  label: 一　印度的三期佛教——總說
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0593_Y_007-mulu-3
+    span:
+    - body
+    - 2522
+    - 2522
+  label: 二　罽賓中心的佛教區
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0593_Y_007-mulu-4
+    span:
+    - body
+    - 4238
+    - 4238
+  label: 三　罽賓中心區的佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0593_Y_007-mulu-5
+    span:
+    - body
+    - 6376
+    - 6376
+  label: 四　錫蘭的佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0593_Y_007-mulu-6
+    span:
+    - body
+    - 7108
+    - 7108
+  label: 五　晚期傳來的小乘經論
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0593_Y_007-mulu-7
+    span:
+    - body
+    - 8192
+    - 8192
+  label: 六　真常大乘經
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0593_Y_007-mulu-8
+    span:
+    - body
+    - 9644
+    - 9644
+  label: 七　瑜伽師的唯心論
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0593_Y_007-mulu-9
+    span:
+    - body
+    - 12264
+    - 12264
+  label: 八　大乘禪
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0593_Y_007-mulu-10
+    span:
+    - body
+    - 13276
+    - 13276
+  label: 九　後期的中觀學
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0593_Y_007-mulu-11
+    span:
+    - body
+    - 13939
+    - 13939
+  label: 十　祕密教
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0593_Y_008-juan-start
+    span:
+    - body
+    - 0
+    - 2490
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0593_Y_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 八、漢譯聖典在世界佛教中的地位
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0593_Y_009-juan-start
+    span:
+    - body
+    - 0
+    - 10403
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0593_Y_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 九、論真諦三藏所傳的阿摩羅識
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0593_Y_009-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 一　九識品與九識章
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0593_Y_009-mulu-3
+    span:
+    - body
+    - 1525
+    - 1525
+  label: 二　阿摩羅識是轉依
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0593_Y_009-mulu-4
+    span:
+    - body
+    - 3283
+    - 3283
+  label: 三　阿摩羅識（轉依）的意義
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0593_Y_009-mulu-5
+    span:
+    - body
+    - 5550
+    - 5550
+  label: 四　阿摩羅識是自性清淨心
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0593_Y_009-mulu-6
+    span:
+    - body
+    - 8831
+    - 8831
+  label: 五　心界通二分說
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0593_Y_010-juan-start
+    span:
+    - body
+    - 0
+    - 22862
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0593_Y_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十、如來藏之研究
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0593_Y_010-mulu-2
+    span:
+    - body
+    - 6
+    - 6
+  label: 一　序說
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0593_Y_010-mulu-3
+    span:
+    - body
+    - 947
+    - 947
+  label: 二　說如來藏之意趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0593_Y_010-mulu-4
+    span:
+    - body
+    - 2848
+    - 2848
+  label: 三　如來藏說之安立
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0593_Y_010-mulu-5
+    span:
+    - body
+    - 6652
+    - 6652
+  label: 四　如來藏之抉擇
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0593_Y_010-mulu-6
+    span:
+    - body
+    - 7341
+    - 7341
+  label: 五　流轉還滅之因依
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0593_Y_010-mulu-7
+    span:
+    - body
+    - 9205
+    - 9205
+  label: 六　如來藏說之三系不同解說
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0593_Y_010-mulu-8
+    span:
+    - body
+    - 14860
+    - 14860
+  label: 七　如來藏為涅槃因
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0593_Y_010-mulu-9
+    span:
+    - body
+    - 19080
+    - 19080
+  label: 八　如來藏為生死依
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0593_Y_011-juan-start
+    span:
+    - body
+    - 0
+    - 1507
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0593_Y_011-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十一、阿陀那與末那
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0593_Y_012-juan-start
+    span:
+    - body
+    - 0
+    - 3928
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0593_Y_012-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十二、欲與離欲
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0593_Y_012-mulu-2
+    span:
+    - body
+    - 4
+    - 4
+  label: 一　「欲」是什麼
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0593_Y_012-mulu-3
+    span:
+    - body
+    - 955
+    - 955
+  label: 二　事欲的分析
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0593_Y_012-mulu-4
+    span:
+    - body
+    - 1733
+    - 1733
+  label: 三　欲與離欲
+  type: mulu
+  level: 1
+hash: sha256:f66dd4582e402cadbacdeed4efa5fff94bc6bba3968f0ef99e3bec4253f64cc1
